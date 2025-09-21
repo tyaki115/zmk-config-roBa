@@ -62,7 +62,7 @@
 
         NUM {
             bindings = <
-&trans          &kp N7  &kp N8  &kp N9  &kp BSPC                      &trans   &kp N7  &kp N8  &kp N9  &trans
+&trans          &kp N7  &kp N8  &kp N9  &kp BSPC                      &trans   &kp N7  &kp N8  &kp N9  &kp BACKSPACE
 &trans          &kp N4  &kp N5  &kp N6  &kp DOT   &trans      &trans  &kp DOT  &kp N4  &kp N5  &kp N6  &trans
 &kp LEFT_SHIFT  &kp N1  &kp N2  &kp N3  &kp N0    &trans      &trans  &kp N0   &kp N1  &kp N2  &kp N3  &trans
 &trans          &trans  &trans  &trans  &trans    &trans      &trans  &mo 6                            &trans
